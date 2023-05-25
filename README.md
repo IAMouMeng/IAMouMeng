@@ -46,7 +46,8 @@ const IAMouMeng = {
     Job: "Student",
     code: ["Python", "Java", "PHP","Golang"],
     info: [
-        blog: {
+        {
+           type:"blog",
            name:"XunMeng's Blog",
            url:"https://www.lnsec.cn"
         }
