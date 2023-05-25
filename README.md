@@ -5,7 +5,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=PHP&logoColor=white" />
-  <img alt="Pyhton" src="https://img.shields.io/badge/-Pyhton-43853d?style=flat-square&logo=Pyhton&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-43853d?style=flat-square&logo=Golang&logoColor=white" />
   <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-43853d?style=flat-square&logo=JAVA&logoColor=white" />
 </p>
