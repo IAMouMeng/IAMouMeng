@@ -6,6 +6,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-43853d?style=flat-square&logo=Golang&logoColor=white" />
+  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-43853d?style=flat-square&logo=GoLang&logoColor=white" />
   <img alt="JAVA" src="https://img.shields.io/badge/-JAVA-43853d?style=flat-square&logo=JAVA&logoColor=white" />
 </p>
