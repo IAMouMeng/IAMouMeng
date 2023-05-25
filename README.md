@@ -19,7 +19,7 @@
   <a href="https://www.lnsec.cn" target="_blank"><img alt="寻梦博客" src="https://img.shields.io/badge/寻梦博客-8DD6F9?&style=for-the-badge&logoColor=white" /></a> 
 </p>
 
-📊 **Weekly development breakdown**
+📊 **开发周目**
 
 ```text
 Python       13 hrs 19 mins  ████████████████████░░░░░   81.80 %
