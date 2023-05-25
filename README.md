@@ -1,4 +1,5 @@
 <h2>Welcome! 👋, I'm <a href="https://stanleylim.me/">MouMeng</a></h2>
+<p>梦想成为一名全栈开发工程师，在校大学生一枚~</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IAMouMeng&show_icons=true&theme=gotham" alt="IAMouMeng" />
 <h3>个人技术栈</h3>
 <p>
