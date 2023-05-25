@@ -39,3 +39,19 @@ Other        11 mins         ▒░░░░░░░░░░░░░░░░
 - 🔍 空间搜索引擎.<br />
 - 📱 云手机.
 </p>
+
+###Code to introduce myself...  
+```javascript
+const IAMouMeng = {
+    Job: "Student",
+    code: ["Python", "Java", "PHP","Golang"],
+    info: {
+        blog: {
+           name:"XunMeng's Blog"，
+           url:"https://www.lnsec.cn"
+        },
+    },
+    dreams: ["Full stack developer", "Network security expert"],
+    motto: "Lack of talent and knowledge so i haven't motto"
+};
+```
