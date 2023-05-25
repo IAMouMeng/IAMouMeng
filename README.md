@@ -8,5 +8,5 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-311C87?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-764ABC?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-46a2f1?style=flat-square&logo=Go&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-coffeescript-43853d?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=coffeescript&logoColor=white" />
 </p>
