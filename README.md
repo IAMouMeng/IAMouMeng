@@ -1,4 +1,4 @@
-<h2>欢迎来到我的主页 👋, 我是 <a href="https://stanleylim.me/">MouMeng</a></h2>
+<h2>Welcome! 👋, I'm <a href="https://stanleylim.me/">MouMeng</a></h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IAMouMeng&show_icons=true&theme=gotham" alt="IAMouMeng" />
 <h3>个人技术栈</h3>
 <p>
