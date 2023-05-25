@@ -1,7 +1,8 @@
 <h2>Welcome! 👋, I'm <a href="https://github.com/IAMouMeng">MouMeng</a></h2>
 <p>梦想成为一名全栈开发工程师，在校大学生一枚~</p>
-<img align="right" width="45%" height="110%" src="https://github-readme-stats.vercel.app/api?username=IAMouMeng&show_icons=true&theme=tokyonight">
+
 <h3>个人技术栈</h3>
+<img align="right" width="45%" height="110%" src="https://github-readme-stats.vercel.app/api?username=IAMouMeng&show_icons=true&theme=tokyonight">
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1a73e8?style=flat-square&logo=CSS3&logoColor=white" />
