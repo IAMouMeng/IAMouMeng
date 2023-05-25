@@ -47,7 +47,7 @@ const IAMouMeng = {
     code: ["Python", "Java", "PHP","Golang"],
     info: {
         blog: {
-           name:"XunMeng's Blog"，
+           name:"XunMeng's Blog",
            url:"https://www.lnsec.cn"
         },
     },
