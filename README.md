@@ -18,6 +18,18 @@
   <a href="https://github.com/IAMouMeng" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.lnsec.cn" target="_blank"><img alt="寻梦博客" src="https://img.shields.io/badge/寻梦博客-8DD6F9?&style=for-the-badge&logoColor=white" /></a> 
 </p>
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```text
+Vue.js       13 hrs 19 mins  ████████████████████▒░░░░   81.80 %
+Python       1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
+Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+```
 <h3>研究领域</h3>
 <p>
 - 🌐 网络安全.
