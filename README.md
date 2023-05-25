@@ -49,7 +49,7 @@ const IAMouMeng = {
         blog: {
            name:"XunMeng's Blog",
            url:"https://www.lnsec.cn"
-        },
+        }
     ],
     dreams: ["Full stack developer", "Network security expert"],
     motto: "Lack of talent and knowledge so i haven't motto"
